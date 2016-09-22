@@ -1,0 +1,49 @@
+a:link {
+	color:#68B9D4;
+	text-decoration: none;
+}
+
+a:visited {
+	color:#68B9D4;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration:none;
+}
+a:active{
+	text-decoration: underline;
+}
+body {
+	font-family: "Marker Felt", "Courier New", fantasy;
+	color: #1ac6ff;
+	background: url("http://www.hdwallpapery.com/static/images/backgrounds-tumblr-tumblr-1991409469_beRer0h.jpg");
+	background-color: #237D38;
+	background-size: 100% 200%;
+	padding-left: 15px;
+}
+
+h1 {
+	font-size: 2.0em;
+	font-style: normal;
+	text-align: center;
+	font-color: #0099cc
+}
+
+h2 {
+	font-size: 1.2em;
+	text-shadow: 2px 2px #000000;
+	text-align: left;
+}
+
+table {
+	margin-left: inherit;
+	margin-right: inherit;
+	border-collapse: collapse;
+}
+table, th, td {
+    	border: 2px solid black;
+	font-family: "Courier New"
+}	
+
+
+
